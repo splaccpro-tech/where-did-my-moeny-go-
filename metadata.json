@@ -1,0 +1,6 @@
+{
+  "name": "Where Did My Money Go?",
+  "description": "A simple, sleek and minimal personal expense tracker to track your spending without the complicated stuff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
